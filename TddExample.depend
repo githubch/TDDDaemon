@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1416914006 source:c:\users\administrator\desktop\tddexample\main.cpp
+	<iostream>
+	"test/QUnit.hpp"
+	"test/QUnit_extension.hpp"
+
+1416904843 c:\users\administrator\desktop\tddexample\test\qunit.hpp
+	<sstream>
+	<string>
+
+1416909374 c:\users\administrator\desktop\tddexample\test\qunit_extension.hpp
+	"QUnit.hpp"
+
